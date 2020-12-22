@@ -1,2 +1,2 @@
 all:
-	g++ -o output.exe testprog.c
+	gcc -o output.exe testprog.c
